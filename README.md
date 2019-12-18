@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dwimay Website
+The website for MS Ramaiah University of Applied Sciences' tech fest, Dwimay
 
 ## Available Scripts
 
